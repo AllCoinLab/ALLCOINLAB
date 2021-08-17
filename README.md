@@ -18,7 +18,7 @@ Automatic Shilling Program for Telegram
 https://github.com/AllCoinLab/AutoShill
 
 ### CryptoLotto
-Fully Transparent Crypto based Lottery
+Fully Transparent Crypto based Lottery  
 https://github.com/AllCoinLab/CryptoLotto
 
 ## Secret Projects
