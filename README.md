@@ -1,7 +1,7 @@
 # Bio
 BlockChain Specialist  
 Highly-skilled + experienced Crypto Developer  
-(Solidity, Web3, ETH, BSC, KCC)
+(Solidity, Web3, ETH, BSC, KCC)  
 Managing and inventing many crypto based projects  
 
 # Contact
