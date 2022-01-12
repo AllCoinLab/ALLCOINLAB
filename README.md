@@ -10,8 +10,8 @@ telegram: https://t.me/ALLCOINLAB
 email: all.coin.lab@gmail.com  
 
 # Website  
-UpFinity Project
-https://theupfinity.com
+UpFinity Project  
+https://theupfinity.com  
 (repo: https://github.com/UpFinityCrypto/UpFinityCrypto.github.io)
 
 # Introduction of myself
@@ -26,7 +26,7 @@ I am looking for a job
 Also looking for people to do a work for UpFinity  
 
 # Skills
-Smart Contract: **TOP TIER (Please tell me who can do better than me)**  
+## Smart Contract: **TOP TIER (Please tell me who can do better than me)**  
 (ex: https://github.com/UpFinityCrypto/UpFinityCrypto.github.io/blob/master/UpFinity.sol)  
 web3.py + python: TOP TIER (done many things: arbitrage, snipe, bot, frontrun, backrun, etc)  
 web3.js + js: High Tier  
