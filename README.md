@@ -35,6 +35,8 @@ Others are not high tier or not learned yet.
 But doesn't matter. I learn REALLY FAST :)  
 
 # I have invented
+All of these features are WORKING in the UpFinity Project
+
 ## Sell Recovery Algorithm
 All Buyback systems are INCOMPLETE due to below issues:  
 1. Buyback happens BEFORE the sell
