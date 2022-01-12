@@ -1,61 +1,36 @@
 # Bio
 BlockChain Specialist  
-Crypto Developer   
+Crypto Developer Expert   
 (Solidity, Web3, ETH, BSC, KCC)  
-Managing and inventing many crypto based projects  
+Managing and inventing many crypto based projects and ideas  
+Owner of the UpFinity (https://t.me/UpFinityTG)  
 
 # Contact
-telegram: https://t.me/AllCoinLab  
+telegram: https://t.me/ALLCOINLAB  
 email: all.coin.lab@gmail.com  
 
 # Website  
-https://AllCoinLab.github.io
-(working)
+UpFinity Project
+https://theupfinity.com
+(repo: https://github.com/UpFinityCrypto/UpFinityCrypto.github.io)
 
 # Introduction of myself
 Hello  
-I am Crypto Developer Expert  
-who manages & invents multiple crypto based project.
+I have invented **SO MANY UNIQUE IDEAS** for the crypto.  
+Things may attract investors like auto-liquidity, reflection, reward, etc.  
+As I have ability to make it as a reality,  
+working on integrating many of them to the UpFinity Project.  
 
-I have **MANY NEW IDEAS** to apply to the token.  
-Things may attract investors like reflection, reward, etc did before.  
-But as you know, applying **TOO MANY** new ideas simultaneously can be confusing for people.  
-And advertisement needs **FOCUS**  
-Applying all of them while shilling everything may degrade performance of each other.  
+# Job
+I am looking for a job  
+Also looking for people to do a work for UpFinity  
 
-So I am doing one by one.  
-Depending on the situation.  
-Already have launched / invented HoneyPot Checker, Automatic Shilling, Transparent Lottery, etc.  
+# Skills
+Smart Contract: **TOP TIER (Please tell me who can do better than me)**  
+(ex: https://github.com/UpFinityCrypto/UpFinityCrypto.github.io/blob/master/UpFinity.sol)  
+web3.py + python: TOP TIER (done many things: arbitrage, snipe, bot, frontrun, backrun, etc)  
+web3.js + js: High Tier  
+Website Development: High Tier (Full Stack. html/css/js/react/django/python/php)  
+Others are not high tier or not learned yet.  
+But doesn't matter. I learn REALLY FAST :)  
 
-And now,  
-I am focusing on new concept of trading token.  
-I have also many ideas for trading token.  
-But I think it should be  **EASY AND INTUITIVE**  
-So I am making each ideas with firm concept.  
-And shilling / advertising for each of them.  
-
-# Public Token Projects
-Check the repository :)
-
-People will join for the potential of each concept.  
-And if it is possible,  
-I may integrate all those concept into one.  
-that means people in the group is also integrated,  
-they will be satisfied because the concept is all applied.  
-also with increased community power.
-
-# Public Service Projects
-## AutoShill
-Automatic Shilling Program for Telegram  
-https://github.com/AllCoinLab/AutoShill
-
-## CryptoLotto
-Fully Transparent Crypto based Lottery  
-https://github.com/AllCoinLab/CryptoLotto
-
-
-# Secret Projects
-Project A  
-Project S  
-Project AS  
-Project AB
