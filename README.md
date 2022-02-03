@@ -1,9 +1,10 @@
 # Bio
 BlockChain Specialist  
 Crypto Developer Expert   
-(Solidity, Web3, ETH, BSC, KCC)  
+(Solidity, Web3, BSC, ETH, KCC)  
 Managing and inventing many crypto based projects and ideas  
-Owner of the UpFinity (https://t.me/UpFinityTG)  
+Owner of "UpFinity" (https://t.me/UpFinityTG)  
+Owner of "The Web3 Project" (https://t.me/TheWeb3Project)  
 
 # Contact
 telegram: https://t.me/ALLCOINLAB  
@@ -13,6 +14,9 @@ email: all.coin.lab@gmail.com
 UpFinity Project  
 https://theupfinity.com  
 (repo: https://github.com/UpFinityCrypto/UpFinityCrypto.github.io)
+
+The Web3 Project
+https://theweb3project.com
 
 # Introduction of myself
 Hello  
